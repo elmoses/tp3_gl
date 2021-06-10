@@ -1,1 +1,2 @@
-# tp3_gl
+# gl-tp3
+Exercice sur les décorateurs ! 
